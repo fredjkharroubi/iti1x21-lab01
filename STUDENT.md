@@ -1,8 +1,8 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
+Student name: Fredj Kharroubi
+Student number: 300160643
+Course code: ITI1521
 Lab: Lab01
 Course section: 02
-Java: 1.8
+Java: "14.0.1" 2020-04-14
 ```
